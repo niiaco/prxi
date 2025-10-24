@@ -4,7 +4,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/niiaco/prxi.git && cd ubuntu-proxy-server && chmod +x install-proxy.sh && sudo ./install-proxy.sh```
+   git clone https://github.com/niiaco/prxi.git && cd prxi && chmod +x install-proxy.sh && sudo ./install-proxy.sh```
 
 
 PROXY_HOST: Listen host (default: 0.0.0.0)
